@@ -4,7 +4,6 @@ I'm currently working as a Software Engineer Intern at Advarra India Pvt Ltd, ga
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwaneeth)
-
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwaneeth@gmail.com) 
 
 # 💻 Tech Stack:
