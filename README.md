@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Software Engineer Intern at Advarra India Pvt Ltd, gaining real-world experience in software development, enhancing my backend architecture skills. I love exploring new tools and frameworks, and I’m always open to collaboration. Feel free to connect or ask me about JavaScript, Node.js, MongoDB, or anything tech-related!
-
+Aspiring Software Developer with a B.Tech in Computer Science (CGPA 8.3) from Reva University. Experienced through internships in building and improving real-world applications. Strong in problem-solving, software development, and teamwork, with a passion for creating impactful and efficient solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwaneeth)
