@@ -1,14 +1,12 @@
-<!-- 🌈 GLOBAL GRADIENT BACKGROUND WRAPPER -->
-<div style="
-  background: linear-gradient(135deg, #FFF9C4, #FFF3E0, #FFECB3);
-  padding: 25px;
-  border-radius: 12px;
-">
-
 <!-- 🌟 Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ashwaneeth+S;Full+Stack+Developer;Java+%7C+Rails+%7C+React+%7C+Node.js;Passionate+About+Building+Scalable+Systems" alt="Animated Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ashwaneeth+S;Full+Stack+Developer;Java+%7C+Rails+%7C+React+%7C+Node.js;Passionate+About+Building+Scalable+Systems" />
 </p>
+
+<br/>
+
+<!-- 👤 Profile Card -->
+<div style="background:white; padding:20px; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.15);">
 
 # 👨‍💻 Ashwaneeth S
 
@@ -16,9 +14,14 @@ Aspiring Software Developer passionate about building scalable, user-centric app
 
 📍 Bengaluru, India  
 📧 **[ashwaneeth@gmail.com](mailto:ashwaneeth@gmail.com)**  
-🔗 **[LinkedIn](https://linkedin.com/in/ashwaneeth)** • **[GitHub](https://github.com/ASHWANEETH)**
+🔗 **[LinkedIn](https://linkedin.com/in/ashwaneeth)** • **[GitHub](https://github.com/ASHWANEETH)**  
 
----
+</div>
+
+<br/>
+
+<!-- 🚀 Tech Stack -->
+<div style="background:white; padding:20px; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.12);">
 
 # 🚀 Tech Stack
 
@@ -43,87 +46,101 @@ Aspiring Software Developer passionate about building scalable, user-centric app
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Tools & Other**
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
----
+</div>
+
+<br/>
+
+<!-- 🧩 About Me -->
+<div style="background:white; padding:20px; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.12);">
 
 # 🧩 About Me
 
-Aspiring Software Developer with a B.Tech in Computer Science (CGPA 8.3) from Reva University.  
-Experienced in real-world projects and internships focusing on:
+Aspiring Software Developer with a B.Tech in Computer Science (CGPA **8.3**) from Reva University.
+
+Focused on:
 
 - Full-stack development  
 - Scalable system design  
 - Clean, maintainable code  
-- Team collaboration (Agile)  
+- Agile teamwork  
 - Impact-driven engineering  
 
----
+</div>
+
+<br/>
+
+<!-- 🛠️ Projects -->
+<div style="background:white; padding:20px; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.12);">
 
 # 🛠️ Projects
 
 ### 🍽️ **Restaurant Order Management System**  
 **Tech:** React.js • Node.js • Express.js • MongoDB  
+
+🔗 **Live Demo:** https://ordermanagement-cagn.onrender.com/  
+🔗 **GitHub Repo:** https://github.com/ASHWANEETH/restaurant-order-management  
+
 - Built REST APIs for real-time order updates  
-- Optimized database queries & indexing  
-- Created a responsive, intuitive user interface  
+- Optimized MongoDB queries & indexing  
+- Designed a clean, intuitive front-end UI  
 
 ---
 
 ### 📚 **EduCodingLab (Smart India Hackathon 2023)**  
 **Tech:** HTML • CSS • JavaScript  
-- Designed responsive UI with focus on usability  
-- Added dynamic elements to increase engagement  
-- Improved performance through lightweight architecture  
+🔗 **Repo:** https://github.com/ASHWANEETH/educodinglab  
 
----
+- Responsive UI with strong usability  
+- Dynamic components improving engagement  
+- Faster load performance via optimized structure  
+
+</div>
+
+<br/>
+
+<!-- 💼 Experience -->
+<div style="background:white; padding:20px; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.12);">
 
 # 💼 Experience
 
 ### **Software Engineer Intern – Advarra India Pvt Ltd (Mar–Sep 2025)**  
 **Ruby on Rails • Vue.js • PostgreSQL • RSpec**
 
-- Developed major features for a global collaboration platform  
-- Implemented PostgreSQL migrations with rollback support  
-- Achieved **100% controller test coverage** using RSpec  
-- Fixed backend/UI issues, improving performance  
-- Worked in Agile sprints using GitHub & Jira  
+- Developed major features for a study collaboration platform  
+- Executed PostgreSQL migrations with rollback  
+- Achieved **100% controller test coverage**  
+- Improved UI + backend consistency  
+- Worked in Agile sprints (GitHub + Jira)  
 
----
+</div>
+
+<br/>
+
+<!-- ⭐ Certifications -->
+<div style="background:white; padding:20px; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.12);">
 
 # 🎖️ Certifications
 - Microsoft Azure AI Fundamentals  
 - SQL (Intermediate) – HackerRank  
 - Java (Basic) – HackerRank  
 
----
+</div>
 
-# 📊 GitHub Stats (Working Links ✔)
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHWANEETH&theme=dark&hide_border=false" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=ASHWANEETH&theme=dark&hide_border=false" height="160" />
-</p>
+<!-- 🔥 Streak Only -->
+<div style="background:white; padding:20px; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.15);">
 
----
-
-# 🔥 Top Languages (Working ✔)
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWANEETH&theme=dark&hide_border=false&layout=compact" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=ASHWANEETH&theme=dark&hide_border=false" height="180" />
 </p>
 
----
-
-# 🏆 Achievements (Stable ✔)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASHWANEETH&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
-</div> <!-- END GRADIENT WRAPPER -->
+</div>
