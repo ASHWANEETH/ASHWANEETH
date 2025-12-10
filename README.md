@@ -84,7 +84,6 @@ Focused on:
 **Tech:** React.js • Node.js • Express.js • MongoDB  
 
 🔗 **Live Demo:** https://ordermanagement-cagn.onrender.com/  
-🔗 **GitHub Repo:** https://github.com/ASHWANEETH/restaurant-order-management  
 
 - Built REST APIs for real-time order updates  
 - Optimized MongoDB queries & indexing  
@@ -94,7 +93,6 @@ Focused on:
 
 ### 📚 **EduCodingLab (Smart India Hackathon 2023)**  
 **Tech:** HTML • CSS • JavaScript  
-🔗 **Repo:** https://github.com/ASHWANEETH/educodinglab  
 
 - Responsive UI with strong usability  
 - Dynamic components improving engagement  
