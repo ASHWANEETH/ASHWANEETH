@@ -1,3 +1,8 @@
+<!-- 🌟 Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ashwaneeth+S;Full+Stack+Developer;Java+%7C+Rails+%7C+React+%7C+Node.js;Passionate+About+Building+Scalable+Systems" alt="Animated Banner" />
+</p>
+
 # 👨‍💻 Ashwaneeth S
 
 Aspiring Software Developer passionate about building scalable, user-centric applications with clean code and modern engineering practices.
@@ -91,15 +96,26 @@ Experienced in real-world projects and internships focusing on:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (Working Links ✔)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ASHWANEETH&theme=dark&hide_border=false)  
-![Streak](https://nirzak-streak-stats.vercel.app/?user=ASHWANEETH&theme=dark&hide_border=false)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWANEETH&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASHWANEETH&theme=dark&hide_border=false" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=ASHWANEETH&theme=dark&hide_border=false" height="160" />
+</p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🔥 Top Languages (Working ✔)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ASHWANEETH&theme=radical&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWANEETH&theme=dark&hide_border=false&layout=compact" height="170" />
+</p>
+
+---
+
+# 🏆 Achievements (Stable ✔)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ASHWANEETH&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
