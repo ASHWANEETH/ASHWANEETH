@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ashwaneeth+S;Full+Stack+Developer;Java+%7C+Rails+%7C+React+%7C+Node.js;Passionate+About+Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ashwaneeth+S;Full+Stack+Developer;Java+%7C+JavaScript+%7C+React+%7C+Node.js;Passionate+About+Building+Scalable+Systems" />
 </p>
 
 <br/>
