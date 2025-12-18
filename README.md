@@ -94,6 +94,8 @@ Focused on:
 ### 📚 **EduCodingLab (Smart India Hackathon 2023)**  
 **Tech:** HTML • CSS • JavaScript  
 
+🔗 **Live Demo:** https://ashwaneeth.github.io/SmartIndiaHackathon_2023/
+
 - Responsive UI with strong usability  
 - Dynamic components improving engagement  
 - Faster load performance via optimized structure  
